@@ -1,0 +1,46 @@
+{
+  "name": "TrustSwaṕ Telos Default List",
+  "timestamp": "2022-05-02T15:30:52.070Z",
+  "version": {
+    "major": 1,
+    "minor": 12,
+    "patch": 59 
+  },
+  "tags": {},
+  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4660.png",
+  "keywords": ["trustswap", "default"],
+  "tokens": [
+    {
+      "name": "Bitcoin",
+      "address": "0x3CE5459F422Ad042468Cb0623238F2B28624f00C",
+      "symbol": "Bitcoin",
+      "decimals": 18,
+      "chainId": 41,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+    }, 
+    {
+      "name": "USDT Tether",
+      "address": "0xfF0ffCCe21e633537FD04A7FeA764319a16d5a46",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 41,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    }, 
+    {
+      "name": "EOS",
+      "address": "0x42929ebd43005f6b42bFaD7292B96FE918Fb8b90",
+      "symbol": "EOS",
+      "decimals": 18,
+      "chainId": 41,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png"
+    }, 
+    {
+      "name": "Ethereum",
+      "address": "0xD6EFd7BaBcE6A617B84Fb7Cc85565dE92faBd77F",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 41,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    }
+  ]
+}
